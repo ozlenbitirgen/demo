@@ -1,0 +1,5 @@
+köpek,comar
+kedi,tekir
+köpek,karabas
+kedi,mavis
+köpek,degerli
